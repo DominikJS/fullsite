@@ -16,11 +16,49 @@ body {
 	padding: 25px;
 }
 
+header {
+	width: 100%;
+	float: left;
+}
 
+header h1 {
+	float: left;
+}
 
+header nav {
+	float: right;
+}
 
+header nav ul li {
+	display: inline;
+	margin: 0 10px;
+	padding-bottom: 20px;
+}
 
+section {
+	width: 65%;
+	float: left;
+}
 
+aside {
+	width: 35%;
+	float: right;
+}
+
+.left {
+	float: left;
+	margin: 10px;
+}
+
+.right {
+	float: right;
+	margin: 10px;
+}
+
+footer {
+	width: 100%;
+	clear: both;
+}
 
 
 
